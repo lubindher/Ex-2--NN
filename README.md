@@ -1,4 +1,4 @@
-<H3>Name : LUBINDHER S P</H3>
+<H3>Name : LUBINDHER S </H3>
 <H3>Register no : 212222240056</H3>
 <H3>Date : </H3>
 <H3>Experiment No : 2 </H3>
